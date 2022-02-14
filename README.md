@@ -29,7 +29,11 @@ Love it:
 
 ## :gift: __Sample Script__
 
-Your mission is to explore the dataset included in this repo which is filled with official data about the deaths in Spain from 1980 until 2018. 
+Fork/clone this repo to check out a basic example by running:
+
+`$ streamlit run main.py`
+
+`$ streamlit run https://raw.githubusercontent.com/potacho/we_love_streamlit/master/main.py`
 
 
 ---
