@@ -33,7 +33,9 @@ Fork/clone this repo to check out a basic example by running:
 
 `$ streamlit run main.py`
 
-`$ streamlit run https://raw.githubusercontent.com/potacho/we_love_streamlit/master/main.py`
+`$ streamlit run https://raw.githubusercontent.com/potacho/we_love_streamlit/master/main.py` # Doesn't work with modules
+
+> __NOTE:__ you may try the cloud version [here](https://share.streamlit.io/potacho/we_love_streamlit/main.py)
 
 
 ---
