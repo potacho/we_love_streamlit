@@ -1,6 +1,6 @@
 # :cupid: :cupid: :cupid: __WE LOVE STREAMLIT__ :cupid: :cupid: :cupid:
 
-![Image](https://aws1.discourse-cdn.com/business7/uploads/streamlit/original/2X/8/8cb5b6c0e1fe4e4ebfd30b769204c0d30c332fec.png)
+![Image](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png)
 
 Probably the best thing that's happened since Pandas!!!
 
