@@ -35,7 +35,7 @@ def data_transform(df, sel):
     return dataset
 
 # Data download function
-@st.cache
+@st.cache_data
 def convert_df(df):
     return df.to_csv().encode('utf-8')
 
